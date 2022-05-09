@@ -1,0 +1,36 @@
+.menu-card {
+  border: 1px solid #b8b3b3;
+  width: 45%;
+  padding: 8px 10px;
+}
+
+.tabmenu {
+  border: 1px solid #333;
+}
+
+.tablinks {
+  padding: 8px 25px;
+  background-color: #f5f4f4;
+  border: 1px solid transparent;
+  color: #4377ae;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.tablinks:active {
+  color: #333;
+}
+
+.menuInfo {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+#profile {
+  display: none;
+}
+
+#contact {
+  display: none;
+}

@@ -1,0 +1,41 @@
+.menu-card{
+    border: 1px solid rgb(184, 179, 179);
+    width: 45%;
+    padding: 8px 10px;
+}
+
+
+.tabmenu{
+    border: 1px solid #333;
+}
+
+.tablinks{
+    padding: 8px 25px;
+    background-color: rgb(245, 244, 244);
+    border: 1px solid transparent;
+    color: rgb(67, 119, 174);
+    font-size: 16px;
+    font-weight: 600;
+    &:target{
+        color: #333;
+    }
+    
+  
+    
+}
+.menuInfo {
+   
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    
+   
+  }
+  #profile{
+    display: none ;
+
+}
+#contact{
+    display: none;
+ 
+}

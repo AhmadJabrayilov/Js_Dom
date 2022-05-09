@@ -1,0 +1,12 @@
+.card-group .card {
+  margin-left: 8px;
+}
+
+.card-group .card p {
+  display: none;
+}
+
+.card-group .card img {
+  -webkit-filter: blur(25px);
+          filter: blur(25px);
+}

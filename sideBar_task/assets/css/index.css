@@ -1,0 +1,23 @@
+.sidebar {
+  width: 150px;
+}
+
+.sidebar .hamburgerMenu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.sidebar .hamburgerMenu #timesLink {
+  display: none;
+  float: right;
+  margin-left: 130px;
+}
+
+.sidebar p {
+  margin-top: 8px;
+  display: none;
+}

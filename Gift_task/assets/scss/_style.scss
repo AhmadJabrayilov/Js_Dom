@@ -1,0 +1,11 @@
+.card-group{
+    .card{
+        margin-left: 8px;
+        p{
+            display: none;
+        }
+        img{
+            filter: blur(25px);
+        }
+    }
+}

@@ -1,0 +1,21 @@
+// *{
+//     margin: 0;
+//     padding: 0;
+// }
+
+.sidebar{
+    width: 150px;
+    .hamburgerMenu{
+        display: flex;
+        justify-content: space-between;
+       #timesLink{
+            display: none;
+            float: right;
+            margin-left: 130px;
+        }
+    }
+    p{
+        margin-top: 8px;
+        display: none;
+    }
+}
